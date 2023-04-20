@@ -1,6 +1,6 @@
 version: v1
 
-# See https://docs.buf.build/breaking/configuration
+# See https://docs.buf.build/breaking/configuration x
 breaking:
   use:
     - WIRE
